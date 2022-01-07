@@ -1,5 +1,5 @@
 
-DATACAMP GUIDED PROJECT ON PostgreSQL
+# DATACAMP GUIDED PROJECT ON PostgreSQL
 
 This is my solution, using PostgreSQL, in a guided project on the DataCamp platform. 
 In this project, I queried the World Bank's international debt dataset to analyze international debts statistics and answer the following questions:
